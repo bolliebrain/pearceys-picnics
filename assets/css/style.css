@@ -22,6 +22,37 @@ h1, h2 {
 }
 
 #logo {
-    float: left;
+    text-align: center;
+    float: center;
     font-size: 200%;
+}
+
+#menu {
+    font-size: 110;
+    letter-spacing: 10px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+/* below - move the menu list to center */
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-top: 40px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #ff0000;
+}
+
+.active {
+    border-bottom: 1px solid #ff0000;
 }
