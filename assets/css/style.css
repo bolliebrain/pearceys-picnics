@@ -9,4 +9,19 @@
 body {
     font-family: Anybody, cursive;
     font-weight: 300;
+    color: #ff0000;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Anybody, cursive;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #ff0000;
+}
+
+#logo {
+    float: left;
+    font-size: 200%;
 }
