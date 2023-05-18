@@ -57,31 +57,8 @@ h1, h2 {
 
 /* hero image - need to update hero outer */
 
-#cover-text, #cover-text h2 {
-    color: #fff;
-}
 #hero-image {
     height: 900px;
     width: 100%;
     background: url('../images/family-picnic.avif') no-repeat center center;
-}
-
-#cover-text {
-    font-size: 130%;
-    font-family: Anybody, cursive;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgb(255, 0, 0);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
 }
