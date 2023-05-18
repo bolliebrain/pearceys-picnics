@@ -4,8 +4,8 @@
     margin: 0;
     padding: 0;
     border: none;
-    
 }
+
 body {
     font-family: Anybody, cursive;
     font-weight: 300;
@@ -22,26 +22,24 @@ h1, h2 {
 }
 
 #logo {
-    text-align: center;
     float: center;
     font-size: 200%;
 }
 
 #menu {
-    font-size: 110;
+    font-size: 90;
     letter-spacing: 10px;
 }
 
 #menu, #logo {
-    line-height: 75px;
+    line-height: 50px;
 }
 
 /* below - move the menu list to center */
 
 #menu li {
-    float: right;
     list-style-type: none;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 #menu a {
@@ -65,7 +63,7 @@ h1, h2 {
 #hero-image {
     height: 900px;
     width: 100%;
-    background: url('../images/familypicnic.avif') no-repeat center center;
+    background: url('../images/family-picnic.avif') no-repeat center center;
 }
 
 #cover-text {
