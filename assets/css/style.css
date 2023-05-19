@@ -28,6 +28,7 @@ h1, h2 {
 #logo {
     text-align: center;
     font-size: 300%;
+    margin-top: 30px;
 }
 
 header a {
@@ -44,7 +45,7 @@ header a {
 
 #menu li {
     list-style-type: none;
-    margin-top: 50px;
+    margin-top: 30px;
     display: inline-block;
     padding: 30px;
 }
@@ -116,4 +117,32 @@ header a {
         transform: scale(1);
     }
 }
+
+/* group-ideals */
+
+#group-ideals {
+    height: 400px;
+}
+
+#left-ideals {
+    padding-top: 30px;
+    width: 33%:
+    float: left;
+    background-color: blue;
+}
+
+#right-ideals {
+    padding-top: 30px;
+    width: 33%:
+    float: right;
+    background-color: silver;
+}
+
+#center-ideals {
+    width: 33%:
+    margin: 0 auto;
+    background-color: green;
+}
+
+
 
