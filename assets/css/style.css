@@ -62,10 +62,10 @@ header a {
     border-bottom: 1px solid black;
 }
 
-/* hero image - need to update hero outer */
+/* hero image and cover text */
 
 #hero-image {
-    height: 700px;
+    height: 650px;
     width: 100%;
     background: url('../images/family-picnic.avif') no-repeat center;
     background-size: cover;
@@ -78,20 +78,42 @@ header a {
 }
 
 #hero-outer {
-    height: 700px;
+    height: 650px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+/* edit this cover-text */
+
+#cover-text, cover-text h2 {
+    color: #ffffff;
+}
+
+#cover-text {
+    background-color: rgb(244, 157, 157, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 20vw;
+    height: 200px;
+
+    font-size: 130%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 100px;
+    padding-left: 10px;
 }
 
 /* creates a level of zoom for the hero image */
 
 @keyframes hero-zoom {
     from{
-        transform: scale(1.1);
+        transform: scale(1.2);
     }
     to{
         transform: scale(1);
     }
 }
-
 
