@@ -67,5 +67,30 @@ header a {
 #hero-image {
     height: 900px;
     width: 100%;
-    background: url('../images/family-picnic.avif') no-repeat center center;
+    background: url('../images/family-picnic.avif') no-repeat center;
+    background-size: cover;
+
+    /* animates zoom effect on loading page */
+    animation-name: hero-zoom;
+    animation-duration: 10s;
+    animation-fill-mode: backwards;
 }
+
+#hero-outer {
+    height: 900px;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* creates a level of zoom for the hero image */
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1.1);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
+
