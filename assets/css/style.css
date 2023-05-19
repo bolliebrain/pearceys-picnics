@@ -65,10 +65,11 @@ header a {
 /* hero image - need to update hero outer */
 
 #hero-image {
-    height: 900px;
+    height: 700px;
     width: 100%;
     background: url('../images/family-picnic.avif') no-repeat center;
     background-size: cover;
+    background-position: bottom;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -77,7 +78,7 @@ header a {
 }
 
 #hero-outer {
-    height: 900px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
 }
