@@ -45,7 +45,7 @@ nav {
 
 #menu li {
     list-style-type: none;
-    margin-top: 30px;
+    margin-top: 1.875px;
     display: inline-block;
 }
 
@@ -64,6 +64,13 @@ nav {
 
 /* hero image and cover text */
 
+#hero-outer {
+    height: 40.625rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
 #hero-image {
     height: 40.625rem;
     width: 100%;
@@ -77,12 +84,6 @@ nav {
     animation-fill-mode: backwards;
 }
 
-#hero-outer {
-    height: 40.625rem;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
 
 /* edit this cover-text */
 
@@ -95,11 +96,13 @@ nav {
     position: absolute;
     top: 50%;
     left: 75%;
-    width: 20vw;
-    height: 200px;
-
+    width: 12.5rem;
+    height: 12.5rem;
+    
+    font-size: 100%;
     text-align: center;
-    padding-top: 100px;
+    text-transform: uppercase;
+    padding-top: 10px;
     padding-left: 10px;
 }
 
