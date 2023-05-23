@@ -10,11 +10,7 @@ body {
     font-family: Anybody, cursive;
     font-weight: 300;
     color: black;
-}
-
-.tiled-background {
-    background-image: url('../images/background.jpg');
-    background-size: 350px;
+    max-width: 1900px;
 }
 
 /* headings and logo */
@@ -123,11 +119,11 @@ header a {
 hr {
     border-top: 3px solid fuchsia;
     width: 100%;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 #group-ideals {
-    height: 600px;
+    height: 300px;
 }
 
 #left-ideals {
@@ -152,7 +148,7 @@ hr {
     float: right;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .right-ideals-heading {
@@ -160,19 +156,19 @@ hr {
     float: left;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .center-ideals-heading {
     width: 60%;
     line-height: 20px;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 #welcome {
     text-align: center;
-    margin: 50px 0;
+    margin: 100px 0;
 }
 
 .right-ideals-heading h2 {
@@ -191,3 +187,26 @@ hr {
     text-align: center;
 }
 
+/* footer */
+footer {
+    height: 300px;
+}
+
+#footer-group {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#footer-left {
+    float: left;
+    text-align: left;
+}
+
+#footer-center {
+    margin: 0 auto;
+}
+
+#footer-right {
+    float: right;
+    text-align: left;
+}
