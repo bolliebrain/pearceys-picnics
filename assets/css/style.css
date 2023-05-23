@@ -33,6 +33,10 @@ header a {
 
 /* navigation links */
 
+nav {
+    display: block;
+}
+
 #menu {
     text-align: center;
     font-size: 130%;
@@ -43,7 +47,6 @@ header a {
     list-style-type: none;
     margin-top: 30px;
     display: inline-block;
-    padding: 30px;
 }
 
 #menu a {
@@ -62,7 +65,7 @@ header a {
 /* hero image and cover text */
 
 #hero-image {
-    height: 650px;
+    height: 40.625rem;
     width: 100%;
     background: url('../images/family-picnic.avif') no-repeat center;
     background-size: cover;
@@ -75,10 +78,9 @@ header a {
 }
 
 #hero-outer {
-    height: 650px;
+    height: 40.625rem;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 
@@ -96,9 +98,7 @@ header a {
     width: 20vw;
     height: 200px;
 
-    font-size: 130%;
     text-align: center;
-    text-transform: uppercase;
     padding-top: 100px;
     padding-left: 10px;
 }
