@@ -22,6 +22,7 @@ h1, h2 {
 }
 
 #logo {
+    color: black;
     text-align: center;
     font-size: 300%;
     margin-top: 30px;
@@ -95,8 +96,8 @@ nav {
     position: absolute;
     top: 50%;
     left: 75%;
-    width: 12.5rem;
-    height: 12.5rem;
+    width: 15rem;
+    height: 15rem;
     
     font-size: 100%;
     text-align: center;
@@ -118,10 +119,23 @@ nav {
 
 /* group-ideals */
 
+#welcome {
+    text-align: center;
+    margin: 50px 0;
+}
+
 .ideals {
     display: inline-block;
     background-color: chartreuse;
     width: 12.5rem;
     height: 12.5rem;
     padding: 0.625rem;
+}
+
+/* Sign up Page */
+
+.signup-bg {
+    background: url('../images/background.jpg');
+    background-size: 20rem;
+    height: 100vh;
 }
