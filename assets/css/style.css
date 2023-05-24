@@ -87,12 +87,12 @@ nav {
 
 /* edit this cover-text */
 
-#cover-text, cover-text h2 {
+#cover-text, cover-text h2, .ideals {
     color: #ffffff;
 }
 
 #cover-text {
-    background-color: rgb(244, 157, 157, 0.8);
+    background-color: red;
     position: absolute;
     top: 50%;
     left: 75%;
@@ -121,15 +121,37 @@ nav {
 
 #welcome {
     text-align: center;
+    font-size: 300%;
     margin: 50px 0;
 }
 
 .ideals {
     display: inline-block;
-    background-color: chartreuse;
+    background-color: red;
     width: 12.5rem;
     height: 12.5rem;
     padding: 0.625rem;
+}
+
+/* footer */
+
+footer {
+    height: 18.75rem;
+}
+
+#footer-group {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#footer-left {
+    float: left;
+    text-align: center;
+}
+
+#footer-right {
+    float: right;
+    text-align: center;
 }
 
 /* Locations page */
