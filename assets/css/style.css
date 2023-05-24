@@ -132,9 +132,26 @@ nav {
     padding: 0.625rem;
 }
 
+/* Locations page */
+
+.group-locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: 20rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+.location-spots {
+    text-align: center;
+    width: 20%;
+    height: 20%;
+}
+
 /* Sign up Page */
 
-.signup-bg {
+.content-bg {
     background: url('../images/background.jpg');
     background-size: 20rem;
     height: 100vh;
