@@ -42,6 +42,7 @@ nav {
     text-align: center;
     font-size: 130%;
     letter-spacing: 3px;
+    margin-bottom: 1rem;
 }
 
 #menu li {
@@ -87,7 +88,7 @@ nav {
 
 /* edit this cover-text */
 
-#cover-text, cover-text h2, .ideals {
+#cover-text, cover-text h2, .ideals, .location-content, .location-spots {
     color: #ffffff;
 }
 
@@ -119,10 +120,17 @@ nav {
 
 /* group-ideals */
 
+.group-ideals {
+    height: 30rem;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
 #welcome {
     text-align: center;
     font-size: 300%;
-    margin: 50px 0;
+    margin: 4rem 0;
 }
 
 .ideals {
@@ -136,25 +144,30 @@ nav {
 /* footer */
 
 footer {
-    height: 18.75rem;
+    height: 9.5rem;
 }
 
-#footer-group {
-    width: 100%;
-    margin: 0 auto;
+.footer-left {
+    text-align: left;
 }
 
-#footer-left {
-    float: left;
-    text-align: center;
+.footer-right {
+    text-align: right;
 }
 
-#footer-right {
-    float: right;
-    text-align: center;
+.footer-right > li {
+    display: inline;
 }
 
 /* Locations page */
+
+.location-content {
+        display: block;
+        background-color: red;
+        width: 60%;
+        height: 25rem;
+        align-items: center;
+}
 
 .group-locations {
     display: flex;
