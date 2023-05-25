@@ -158,12 +158,14 @@ footer {
 
 #footer-left {
     float: left;
-    margin: 2rem;
+    margin-left: 10rem;
+    margin-top: 2rem;
 }
 
 #footer-right {
     float: right;
-    margin: 2rem;
+    margin-right: 10rem;
+    margin-top: 2rem;
 }
 
 #footer-left > p {
@@ -171,9 +173,13 @@ footer {
     text-align: left;
 }
 
-# footer-right > ul {
+#footer-right > ul {
     display: flex;
-    justify-content: space-evenly;
+}
+
+i {
+    font-size: 170%;
+    margin: 1rem;
 }
 
 ul {
