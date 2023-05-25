@@ -158,12 +158,20 @@ footer {
 
 #footer-left {
     float: left;
-    width: 9rem;
 }
 
 #footer-right {
     float: right;
-    width: 9rem;
+}
+
+#footer-left > p {
+    max-width: 11rem;
+    text-align: left;
+}
+
+# footer-right > ul {
+    list-style-type: none;
+    display: flex;
 }
 
 /* Locations page */
