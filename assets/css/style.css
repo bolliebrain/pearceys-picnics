@@ -158,10 +158,12 @@ footer {
 
 #footer-left {
     float: left;
+    width: 9rem;
 }
 
 #footer-right {
     float: right;
+    width: 9rem;
 }
 
 /* Locations page */
