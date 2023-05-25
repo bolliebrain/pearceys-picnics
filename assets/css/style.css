@@ -158,10 +158,12 @@ footer {
 
 #footer-left {
     float: left;
+    margin: 2rem;
 }
 
 #footer-right {
     float: right;
+    margin: 2rem;
 }
 
 #footer-left > p {
@@ -170,8 +172,12 @@ footer {
 }
 
 # footer-right > ul {
-    list-style-type: none;
     display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    list-style-type: none;
 }
 
 /* Locations page */
