@@ -122,7 +122,6 @@ nav {
 /* group-ideals */
 
 .group-ideals {
-    height: 30rem;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -187,7 +186,11 @@ ul {
 }
 
 /* Locations page */
-
+.locations-dimensions {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 .location-content {
         display: block;
         background-color: red;
@@ -217,5 +220,5 @@ ul {
 .content-bg {
     background: url('../images/background.jpg');
     background-size: 20rem;
-    height: 100vh;
+    height: 50vh;
 }
