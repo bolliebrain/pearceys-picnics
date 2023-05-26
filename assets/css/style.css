@@ -121,7 +121,7 @@ nav {
 
 /* group-ideals */
 
-.group-ideals {
+.section-ideals {
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -135,18 +135,24 @@ nav {
 
 .ideals-content {
     display: block;
-    background-color: red;
-    width: 60%;
-    height: 25rem;
-    align-items: center;
+    width: 50rem;
+    height: 10rem;
+    text-align: center;
+    margin: auto;
+}
+
+.group-ideals {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
 }
 
 .ideals {
-    display: inline-block;
     background-color: red;
-    width: 12.5rem;
-    height: 12.5rem;
-    padding: 0.625rem;
+    width: 15rem;
+    height: 15rem;
+    padding: 1rem;
 }
 
 /* footer */
