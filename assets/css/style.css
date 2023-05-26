@@ -221,3 +221,8 @@ ul {
     background: url('../images/background.jpg');
     background-size: 20rem;
 }
+
+/* media queries*/
+@media screen and (max-width: 1000) {
+    
+}
