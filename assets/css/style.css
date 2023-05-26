@@ -133,6 +133,14 @@ nav {
     margin: 4rem 0;
 }
 
+.ideals-content {
+    display: block;
+    background-color: red;
+    width: 60%;
+    height: 25rem;
+    align-items: center;
+}
+
 .ideals {
     display: inline-block;
     background-color: red;
@@ -158,11 +166,13 @@ footer {
 #footer-left {
     float: left;
     margin-left: 10rem;
+    margin-right: 10rem;
     margin-top: 2rem;
 }
 
 #footer-right {
     float: right;
+    margin-left: 10rem;
     margin-right: 10rem;
     margin-top: 2rem;
 }
@@ -192,11 +202,11 @@ ul {
     position: relative;
 }
 .location-content {
-        display: block;
-        background-color: red;
-        width: 60%;
-        height: 25rem;
-        align-items: center;
+    display: block;
+    background-color: red;
+    width: 60%;
+    height: 25rem;
+    align-items: center;
 }
 
 .group-locations {
