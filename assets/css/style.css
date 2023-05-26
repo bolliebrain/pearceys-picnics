@@ -250,6 +250,7 @@ ul {
     width: 80rem;
     height: 80rem;
     margin: auto;
+    position: relative;
 }
 
 /* media queries*/
