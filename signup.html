@@ -31,21 +31,20 @@
         </ul>
     </nav>
     <section>
-            <form action="http:formdump.codeinstitute.net/" form method="POST">
-                <label for="name-field">Full Name</label>
-                <input id="name-field" type="text" value="Your Full Name" placeholder="Your Full Name">
-
-                <label for="email-field">Email Address</label>
-                <input id="email-field" type="email" value="Email Address" placeholder="Email Address">
-
-                <label for="feedback">Please let us know if you have any other requirements, or even to tell us about your favourite picnic!</label>
-                <br>
-                <textarea id="feedback" placeholder="Hi Pearcey...." name="feedback" cols="40" rows="15">
-                <br>
-
-                <input type="submit" value="Sign up to Pearcey's!">
-
-            </form>
+        <div class="content-bg">
+            <div id="form-container">
+                <form action="http:formdump.codeinstitute.net/" form method="POST">
+                    <label for="fullname">Full Name</label>
+                    <input id="fullname" type="text" name="fullname" placeholder="Your Full Name" required>
+                    <label for="email">Email Address</label>
+                    <input id="email" type="email" name="email" placeholder="Email Address" required>
+                    <label for="feedback">Please let us know if you have any other requirements, or even to tell us about your favourite picnic!</label>
+                    <textarea id="feedback" placeholder="Hi Pearcey...." name="feedback" cols="40" rows="15">
+                    </textarea>
+                    <input type="submit" value="Sign up to Pearcey's!">
+                </form>
+            </div>
+        </div>
     </section>
     <footer>
         <div id="footer-group">

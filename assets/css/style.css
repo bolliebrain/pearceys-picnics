@@ -133,6 +133,11 @@ nav {
     margin: 1rem 0;
 }
 
+.content-bg {
+    background: url('../images/background.jpg');
+    background-size: 20rem;
+}
+
 .ideals-content {
     display: block;
     width: 50rem;
@@ -239,9 +244,12 @@ ul {
 
 /* Sign up Page */
 
-.content-bg {
-    background: url('../images/background.jpg');
-    background-size: 20rem;
+#form-container {
+    text-align: center;
+    background-color: red;
+    width: 80rem;
+    height: 80rem;
+    margin: auto;
 }
 
 /* media queries*/
