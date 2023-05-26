@@ -210,9 +210,10 @@ ul {
 .location-content {
     display: block;
     background-color: red;
-    width: 60%;
-    height: 25rem;
-    align-items: center;
+    width: 50rem;
+    height: 20rem;
+    text-align: center;
+    margin: auto;
 }
 
 .group-locations {
@@ -226,8 +227,14 @@ ul {
     text-align: center;
     width: 18.75rem;
     height: 18.75rem;
-    background-color: blue;
     overflow: hidden;
+    position: relative;
+}
+
+.park-name {
+    position: absolute;
+    left: 0;
+    right: 0;
 }
 
 /* Sign up Page */
