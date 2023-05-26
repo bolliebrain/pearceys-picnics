@@ -203,14 +203,13 @@ ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    height: 20rem;
     width: 100%;
 }
 
 .location-spots {
     text-align: center;
-    width: 300px;
-    height: 300px;
+    width: 18.75rem;
+    height: 18.75rem;
     background-color: blue;
     overflow: hidden;
 }
@@ -224,5 +223,5 @@ ul {
 
 /* media queries*/
 @media screen and (max-width: 1000) {
-    
+
 }
