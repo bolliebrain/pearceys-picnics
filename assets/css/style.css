@@ -172,6 +172,9 @@ nav {
     padding: 1rem;
 }
 
+.ideals i {
+    color:rgb(245, 245, 245);
+}
 .ideals-content i {
     font-size: 130%;
 }
