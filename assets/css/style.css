@@ -68,14 +68,14 @@ nav {
 /* hero image and cover text */
 
 #hero-outer {
-    height: 40.625rem;
+    height: 30rem;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #hero-image {
-    height: 40.625rem;
+    height: 30rem;
     width: 100%;
     background: url('../images/family-picnic.avif') no-repeat center;
     background-size: cover;
@@ -89,28 +89,36 @@ nav {
 
 /* edit this cover-text */
 
-#cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container { 
+#cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container, #cover-text-link { 
     color: rgb(245, 245, 245);
+    text-decoration: none;
 }
 
 #cover-text {
     background-color: rgba(244, 7, 7, 0.594);
     position: absolute;
-    top: 50%;
+    top: 43.5%;
     left: 75%;
     width: 15rem;
     height: 15rem;
     
-    font-size: 100%;
     text-align: center;
-    text-transform: uppercase;
-    padding-top: 1rem;
-    padding-left: 1rem;
     text-decoration: none;
     margin: auto;
+    padding: 1rem;
 }
 
-/* creates a level of zoom for the hero image */
+#cover-text h2 {
+    padding-top: 2rem;
+    margin: 1rem;
+}
+
+#cover-text h3 {
+    font-size: 100%;
+    margin-top: 1rem;
+}
+
+/* Zoom animation for the hero image */
 
 @keyframes hero-zoom {
     from{
@@ -135,6 +143,8 @@ nav {
     margin: 1rem 0;
 }
 
+
+
 .content-bg {
     background: url('../images/background.jpg');
     background-size: 20rem;
@@ -142,7 +152,7 @@ nav {
 
 .ideals-content {
     display: block;
-    width: 50rem;
+    width: 55rem;
     height: 10rem;
     text-align: center;
     margin: auto;
@@ -162,6 +172,13 @@ nav {
     padding: 1rem;
 }
 
+.ideals-content i {
+    font-size: 130%;
+}
+
+.ideals-content p {
+    margin-top: 1rem;
+}
 /* footer */
 
 footer {
@@ -200,7 +217,7 @@ footer {
     display: flex;
 }
 
-i {
+footer i {
     font-size: 170%;
     margin: 1rem;
 }
@@ -210,6 +227,7 @@ ul {
 }
 
 /* Locations page */
+
 .locations-dimensions {
     width: 100%;
     overflow: hidden;
@@ -233,8 +251,8 @@ ul {
 
 .location-spots {
     text-align: center;
-    width: 18.75rem;
-    height: 18.75rem;
+    width: 15rem;
+    height: 15rem;
     overflow: hidden;
     position: relative;
 }
