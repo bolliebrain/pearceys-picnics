@@ -29,7 +29,7 @@ h1, h2 {
     margin-top: 30px;
 }
 
-header a {
+header a  {
     text-decoration: none;
 }
 
@@ -90,7 +90,7 @@ nav {
 /* edit this cover-text */
 
 #cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container { 
-    color: #ffffff;
+    color: rgb(245, 245, 245);
 }
 
 #cover-text {
@@ -104,8 +104,10 @@ nav {
     font-size: 100%;
     text-align: center;
     text-transform: uppercase;
-    padding-top: 10px;
-    padding-left: 10px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    text-decoration: none;
+    margin: auto;
 }
 
 /* creates a level of zoom for the hero image */
@@ -259,7 +261,7 @@ ul {
     margin: 1.5rem;
     padding: 1.5rem;
     background-color: rgb(69, 66, 66);
-    color: #ffffff;
+    color: rgb(;245, 245, 245)
 }
 
 form > h2 {
