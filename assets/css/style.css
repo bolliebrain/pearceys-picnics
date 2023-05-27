@@ -95,7 +95,7 @@ nav {
 }
 
 #cover-text {
-    background-color: rgba(244, 7, 7, 0.594);
+    background-color: rgba(250,0,5,0.6);
     position: absolute;
     top: 43.5%;
     left: 75%;
@@ -164,7 +164,7 @@ nav {
 }
 
 .ideals {
-    background-color: rgba(244, 7, 7, 0.594);
+    background-color: rgba(250,0,5,0.6);
     width: 15rem;
     height: 15rem;
     padding: 1rem;
@@ -249,7 +249,7 @@ ul {
 }
 .location-content {
     display: block;
-    background-color: rgba(244, 7, 7, 0.594);
+    background-color: rgba(250,0,5,0.6);
     width: 50rem;
     height: 20rem;
     text-align: center;
@@ -280,13 +280,14 @@ ul {
 /* Sign up Page */
 
 #signup-dimensions {
-    width: 100%;
+    width: 60vw;
     padding: 4rem;
+    margin: auto;
 }
 
 #form-container {
     text-align: center;
-    background-color: rgba(244, 7, 7, 0.594);
+    background-color: rgba(250,0,5,0.6);
     padding: 2rem;
     width: 25rem;
     height: 52rem;
