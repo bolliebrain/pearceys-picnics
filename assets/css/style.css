@@ -278,8 +278,10 @@ ul {
 #signup-button {
     margin: 1.5rem;
     padding: 1.5rem;
+    font-size: 110%;
+    font-family: Anybody, cursive;
     background-color: rgb(69, 66, 66);
-    color: rgb(;245, 245, 245)
+    color: rgb(245, 245, 245)
 }
 
 form > h2 {
