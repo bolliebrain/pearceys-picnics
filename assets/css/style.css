@@ -8,8 +8,8 @@
 
 body {
     font-family: Anybody, cursive;
-    font-weight: 300;
-    color: black;
+    font-weight: 400;
+    color: rgb(69, 66, 66);
     max-width: 1900px;
     margin: auto;
 }
@@ -23,7 +23,7 @@ h1, h2 {
 }
 
 #logo {
-    color: black;
+    color: rgb(69, 66, 66);
     text-align: center;
     font-size: 300%;
     margin-top: 30px;
@@ -58,11 +58,11 @@ nav {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(69, 66, 66);
 }
 
 .active {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(69, 66, 66);
 }
 
 /* hero image and cover text */
@@ -89,12 +89,12 @@ nav {
 
 /* edit this cover-text */
 
-#cover-text, cover-text h2, .ideals, .location-content, .location-spots {
+#cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container { 
     color: #ffffff;
 }
 
 #cover-text {
-    background-color: red;
+    background-color: rgba(244, 7, 7, 0.594);
     position: absolute;
     top: 50%;
     left: 75%;
@@ -154,7 +154,7 @@ nav {
 }
 
 .ideals {
-    background-color: red;
+    background-color: rgba(244, 7, 7, 0.594);
     width: 15rem;
     height: 15rem;
     padding: 1rem;
@@ -164,6 +164,7 @@ nav {
 
 footer {
     height: 9.5rem;
+    color: rgb(69, 66, 66)
 }
 
 #footer-group {
@@ -214,7 +215,7 @@ ul {
 }
 .location-content {
     display: block;
-    background-color: red;
+    background-color: rgba(244, 7, 7, 0.594);
     width: 50rem;
     height: 20rem;
     text-align: center;
@@ -246,11 +247,38 @@ ul {
 
 #form-container {
     text-align: center;
-    background-color: red;
-    width: 40rem;
-    height: 40rem;
+    background-color: rgba(244, 7, 7, 0.594);
+    padding: 2rem;
+    width: 25rem;
+    height: 50rem;
     margin: auto;
     position: relative;
+}
+
+#signup-button {
+    margin: 1.5rem;
+    padding: 1.5rem;
+    background-color: rgb(69, 66, 66);
+    color: #ffffff;
+}
+
+form > h2 {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.text-input {
+    background: rgb(245, 245, 245);
+    font-family: Anybody, cursive;
+    font-size: 110%;
+    width: 20rem;
+    padding: 0.5rem;
+    color: rgb(0, 0, 0);
+    margin: 0.5rem;
+}
+
+.form-space {
+    margin-top: 2rem;
 }
 
 /* media queries*/
