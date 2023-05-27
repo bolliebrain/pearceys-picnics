@@ -144,7 +144,7 @@ nav {
 }
 
 .content-bg {
-    background: url('../images/background.jpg');
+    background: url('../images/background.webp');
     background-size: 20rem;
 }
 
@@ -278,6 +278,11 @@ ul {
 }
 
 /* Sign up Page */
+
+#signup-dimensions {
+    width: 100%;
+    padding: 4rem;
+}
 
 #form-container {
     text-align: center;
