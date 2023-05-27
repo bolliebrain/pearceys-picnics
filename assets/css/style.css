@@ -143,8 +143,6 @@ nav {
     margin: 1rem 0;
 }
 
-
-
 .content-bg {
     background: url('../images/background.jpg');
     background-size: 20rem;
@@ -172,15 +170,28 @@ nav {
     padding: 1rem;
 }
 
-.ideals i {
-    color:rgb(245, 245, 245);
+.ideals div {
+    text-align: center;
 }
+
+.ideals i {
+    font-size: 600%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.ideals a, .ideals-content a {
+    text-decoration: none;
+    color: inherit
+}
+
 .ideals-content i {
     font-size: 130%;
 }
 
 .ideals-content p {
     margin-top: 1rem;
+    text-decoration: none;
+    color: inherit;
 }
 /* footer */
 
