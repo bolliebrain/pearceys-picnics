@@ -351,9 +351,9 @@ form > h2 {
 
 /* media queries*/
 
-/* for smaller screens sizes 400px wide and down*/
+/* for smaller screens sizes 450px wide and down*/
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
 
     #cover-text {
         left: 0;
