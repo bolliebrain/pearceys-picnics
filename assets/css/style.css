@@ -272,11 +272,11 @@ ul {
 
 .location-spots {
     text-align: center;
-    width: 15rem;
-    height: 15rem;
+    width: 15.25rem;
+    height: 15.25rem;
     overflow: hidden;
     position: relative;
-    padding: 0.5rem;
+    margin: 0.5rem;
 }
 
 .park-name {
