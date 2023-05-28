@@ -258,7 +258,7 @@ ul {
 }
 
 .location-content p {
-    margin: 2rem;
+    margin: 1.5rem;
 }
 
 .group-locations {
@@ -276,6 +276,7 @@ ul {
     height: 15rem;
     overflow: hidden;
     position: relative;
+    padding: 0.5rem;
 }
 
 .park-name {
