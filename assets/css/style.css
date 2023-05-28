@@ -357,8 +357,13 @@ form > h2 {
 @media screen and (max-width:400px) {
 
     #cover-text {
-        background-color:blue;
+        left: 0;
         right: 0;
+    }
+
+    .ideals-content {
+        width: auto;
+        height: 20rem;
     }
 
     #footer-group {
@@ -367,7 +372,13 @@ form > h2 {
 
     #footer-left {
         text-align: left;
-        padding: 1rem;
+        float: none;
     }
+
+    #footer-right {
+        margin: 0;
+    }
+
+    
     
 }
