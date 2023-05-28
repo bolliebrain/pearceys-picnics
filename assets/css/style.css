@@ -302,10 +302,7 @@ ul {
 }
 
 #signup-dimensions {
-    width: 60vw;
     padding: 4rem;
-    margin: auto;
-    position: relative;
 }
 
 #form-container {
@@ -423,7 +420,6 @@ form > h2 {
     }
 
     #form-content {
-        margin: 0;
         width: 15rem;
     }
 
@@ -476,77 +472,30 @@ form > h2 {
     #form-container {
         font-size: 80%;
         padding: 1rem;
-        width: 20rem;
-        height: 50rem;
-        margin: 3rem;
+        width: 15rem;
+        height: 45rem;
     }
 
-    #form-content {
-        margin: 0;
+    #form-content { 
         width: 15rem;
+    }
+
+    form > h2 {
+        margin: 0;
     }
 
     #signup-dimensions {
         margin: 0;
-        width: 0;
         padding: 1rem;
     }
 
     .text-input {
         font-size: 90%;
-        width: 15rem;
-    }
-}
-
-
-/*
-    
-
-    #footer-group {
-        font-size: 80%;
-        height: 20rem;
+        width: 10rem;
     }
 
-    #footer-left {
-        text-align: left;
-        float: left;
-        margin-left: 0;
-        margin-right: 0;
-        margin-top: 0;
-    }
-
-    #footer-left h3, #footer-left p {
+    #signup-button {
         margin: 1rem;
-    }
-
-    #footer-right {
-        margin: 1rem;
-    }
-
-    #footer-right a {
-        font-size: 80%;
-    }
-
-    .location-content {
-        width: 20rem;
-        height: 20rem
-    }
-
-    #form-container {
-        font-size: 80%;
         padding: 1rem;
-        width: 20rem;
-        height: 50rem;
-    }
-
-    #form-content {
-        margin: 0;
-        width: 15rem;
-    }
-
-    .text-input {
-        font-size: 90%;
-        width: 15rem;
     }
 }
-*/
