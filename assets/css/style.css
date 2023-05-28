@@ -242,10 +242,6 @@ ul {
 
 /* Locations page */
 
-#signup-layout {
-    position: relative;
-}
-
 .locations-dimensions {
     width: 100%;
     overflow: hidden;
@@ -299,10 +295,17 @@ ul {
 
 /* Sign up Page */
 
+#signup-width {
+    width: 100%;
+    position:relative;
+    overflow: hidden;
+}
+
 #signup-dimensions {
     width: 60vw;
     padding: 4rem;
     margin: auto;
+    position: relative;
 }
 
 #form-container {
@@ -355,7 +358,7 @@ form > h2 {
 
 /* media queries*/
 
-/* for smaller screens sizes 450px wide and down*/
+/* for very small screens sizes from 450px wide and down */
 
 @media screen and (max-width:450px) {
 
@@ -378,8 +381,81 @@ form > h2 {
         float: none;
     }
 
+    #footer-left h3, #footer-left p {
+        margin: 1rem;
+    }
+
     #footer-right {
         margin: 0;
+    }
+
+    #footer-right a {
+        font-size: 80%;
+    }
+
+    .location-content {
+        width: 20rem;
+        height: 20rem
+    }
+
+    #form-container {
+        font-size: 80%;
+        padding: 1rem;
+        width: 20rem;
+        height: 50rem;
+    }
+
+    #form-content {
+        margin: 0;
+        width: 15rem;
+    }
+
+    #signup-dimensions {
+        margin: 0;
+        width: 0;
+        padding: 1rem;
+    }
+
+    .text-input {
+        font-size: 90%;
+        width: 15rem;
+    }
+}
+
+
+/* for small screens sizes from 750px wide and down*/
+
+@media screen and (max-width:750px) {
+
+    #cover-text {
+        left: 0;
+        right: 0;
+    }
+
+    .ideals-content {
+        width: auto;
+        height: 20rem;
+    }
+
+    #footer-group {
+        font-size: 80%;
+    }
+
+    #footer-left {
+        text-align: left;
+        float: none;
+    }
+
+    #footer-left h3, #footer-left p {
+        margin: 1rem;
+    }
+
+    #footer-right {
+        margin: 0;
+    }
+
+    #footer-right a {
+        font-size: 80%;
     }
 
     .location-content {
