@@ -348,23 +348,16 @@ form > h2 {
     margin: auto;
     position: relative;
     width: 25rem;
-
+}
 
 /* media queries*/
 
 /* for larger to medium screens size from 1000px wide and down*/
 
-@media screen and {
-
-
-   
-}
-
-/* for larger to medium screens size from 1000px wide and down*/
-
-@media screen and (max-width:1000px) {
+@media screen and (max-width:400px) {
 
     #cover-text {
+        background-color:blue;
         right: 0;
     }
 
