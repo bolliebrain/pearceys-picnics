@@ -179,12 +179,12 @@ nav {
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
-.ideals a, .ideals-content a {
+.ideals a, .ideals-content a, .park-name a, .location-content a {
     text-decoration: none;
     color: inherit
 }
 
-.ideals-content i {
+.ideals-content i, .location-content i {
     font-size: 130%;
 }
 
@@ -250,10 +250,15 @@ ul {
 .location-content {
     display: block;
     background-color: rgba(250,0,5,0.6);
-    width: 50rem;
-    height: 20rem;
+    width: 40rem;
+    height: 15rem;
     text-align: center;
     margin: auto;
+    padding: 2rem;
+}
+
+.location-content p {
+    margin: 2rem;
 }
 
 .group-locations {
@@ -261,6 +266,8 @@ ul {
     flex-wrap: wrap;
     justify-content: space-evenly;
     width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .location-spots {
