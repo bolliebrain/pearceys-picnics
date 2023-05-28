@@ -352,15 +352,20 @@ form > h2 {
 
 /* media queries*/
 
-/* for larger to medium screens size from 1100px wide and down*/
+/* for larger to medium screens size from 1000px wide and down*/
 
-@media screen {
-    
+@media screen and {
+
+
+   
 }
 
-@media screen and (max-width: 800px) {
+/* for larger to medium screens size from 1000px wide and down*/
+
+@media screen and (max-width:1000px) {
+
     #cover-text {
-        margin: auto;
+        right: 0;
     }
 
     #footer-group {
@@ -369,5 +374,7 @@ form > h2 {
 
     #footer-left {
         text-align: left;
+        padding: 1rem;
     }
+    
 }
