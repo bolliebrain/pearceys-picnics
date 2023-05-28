@@ -242,6 +242,10 @@ ul {
 
 /* Locations page */
 
+#signup-layout {
+    position: relative;
+}
+
 .locations-dimensions {
     width: 100%;
     overflow: hidden;
