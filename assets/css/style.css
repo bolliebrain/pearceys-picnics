@@ -290,7 +290,7 @@ ul {
     background-color: rgba(250,0,5,0.6);
     padding: 2rem;
     width: 25rem;
-    height: 52rem;
+    height: 55rem;
     margin: auto;
     position: relative;
 }
@@ -330,9 +330,28 @@ form > h2 {
 
 #form-content {
     margin: auto;
-}
+    position: relative;
+    width: 25rem;
+
 
 /* media queries*/
-@media screen and (max-width: 1000) {
 
+/* for larger to medium screens size from 1100px wide and down*/
+
+@media screen {
+    
+}
+
+@media screen and (max-width: 800px) {
+    #cover-text {
+        margin: auto;
+    }
+
+    #footer-group {
+        font-size: 80%;
+    }
+
+    #footer-left {
+        text-align: left;
+    }
 }
