@@ -358,27 +358,44 @@ form > h2 {
 
 /* media queries*/
 
-/* for very small screens sizes from 450px wide and down */
-
-@media screen and (max-width:450px) {
+/* for large sizes from 1100px wide and down*/
+@media screen and (max-width:1100px) {
 
     #cover-text {
-        left: 0;
+        left: 16.5rem;
+        right: 0;
+    }
+    
+    .ideals-content {
+        width: auto;
+        height: 15rem;
+    }
+}
+
+/* for small screens sizes from 800px wide and down*/
+@media screen and (max-width:800px) {
+
+    #cover-text {
+        left: 10rem;
         right: 0;
     }
 
     .ideals-content {
         width: auto;
-        height: 20rem;
+        height: 15rem;
     }
 
     #footer-group {
         font-size: 80%;
+        height: 20rem;
     }
 
     #footer-left {
         text-align: left;
-        float: none;
+        float: left;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
     }
 
     #footer-left h3, #footer-left p {
@@ -386,7 +403,7 @@ form > h2 {
     }
 
     #footer-right {
-        margin: 0;
+        margin: 1rem;
     }
 
     #footer-right a {
@@ -410,22 +427,14 @@ form > h2 {
         width: 15rem;
     }
 
-    #signup-dimensions {
-        margin: 0;
-        width: 0;
-        padding: 1rem;
-    }
-
     .text-input {
         font-size: 90%;
         width: 15rem;
     }
 }
 
-
-/* for small screens sizes from 750px wide and down*/
-
-@media screen and (max-width:750px) {
+/* for very small screens sizes from 475px wide and down */
+@media screen and (max-width:475px) {
 
     #cover-text {
         left: 0;
@@ -434,11 +443,12 @@ form > h2 {
 
     .ideals-content {
         width: auto;
-        height: 20rem;
+        height: 22.5rem;
     }
 
     #footer-group {
         font-size: 80%;
+        height: 10rem;
     }
 
     #footer-left {
@@ -452,6 +462,65 @@ form > h2 {
 
     #footer-right {
         margin: 0;
+    }
+
+    #footer-right a {
+        font-size: 80%;
+    }
+
+    .location-content {
+        width: 15rem;
+        height: 25rem
+    }
+
+    #form-container {
+        font-size: 80%;
+        padding: 1rem;
+        width: 20rem;
+        height: 50rem;
+        margin: 3rem;
+    }
+
+    #form-content {
+        margin: 0;
+        width: 15rem;
+    }
+
+    #signup-dimensions {
+        margin: 0;
+        width: 0;
+        padding: 1rem;
+    }
+
+    .text-input {
+        font-size: 90%;
+        width: 15rem;
+    }
+}
+
+
+/*
+    
+
+    #footer-group {
+        font-size: 80%;
+        height: 20rem;
+    }
+
+    #footer-left {
+        text-align: left;
+        float: left;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    #footer-left h3, #footer-left p {
+        margin: 1rem;
+    }
+
+    #footer-right {
+        margin: 1rem;
     }
 
     #footer-right a {
@@ -475,14 +544,9 @@ form > h2 {
         width: 15rem;
     }
 
-    #signup-dimensions {
-        margin: 0;
-        width: 0;
-        padding: 1rem;
-    }
-
     .text-input {
         font-size: 90%;
         width: 15rem;
     }
 }
+*/
