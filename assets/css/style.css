@@ -284,6 +284,15 @@ ul {
     right: 0;
 }
 
+.park-name h2{
+    padding-top: 1rem;
+}
+.park-name p {
+    background-color: rgba(250,0,5,0.6);
+    margin-top: 1rem;
+    font-size: 110%;
+}
+
 /* Sign up Page */
 
 #signup-dimensions {
