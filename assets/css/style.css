@@ -302,7 +302,6 @@ ul {
 }
 
 #form-container {
-    text-align: center;
     background-color: rgba(250,0,5,0.6);
     padding: 2rem;
     width: 25rem;
@@ -352,7 +351,7 @@ form > h2 {
 
 /* media queries*/
 
-/* for larger to medium screens size from 1000px wide and down*/
+/* for smaller screens sizes 400px wide and down*/
 
 @media screen and (max-width:400px) {
 
@@ -379,6 +378,31 @@ form > h2 {
         margin: 0;
     }
 
-    
-    
+    .location-content {
+        width: 20rem;
+        height: 20rem
+    }
+
+    #form-container {
+        font-size: 80%;
+        padding: 1rem;
+        width: 20rem;
+        height: 50rem;
+    }
+
+    #form-content {
+        margin: 0;
+        width: 15rem;
+    }
+
+    #signup-dimensions {
+        margin: 0;
+        width: 0;
+        padding: 1rem;
+    }
+
+    .text-input {
+        font-size: 90%;
+        width: 15rem;
+    }
 }
