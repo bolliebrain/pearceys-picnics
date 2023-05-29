@@ -502,3 +502,9 @@ form > h2 {
         padding: 1rem;
     }
 }
+
+/* form submission*/
+
+#thankyou {
+    height: 20rem;
+}
