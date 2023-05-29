@@ -137,6 +137,11 @@ PROVIDE ALL THREE?
 
 TEST THESE
 
+### Test Cases and Results
+
+Test each feature functionality
+Do we mention hero image zoom here?
+
 ### Known bugs
 
 - Hero image appearing in Microsoft Edge - reducing the pixel size of the image may have fixed this
