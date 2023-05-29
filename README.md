@@ -2,7 +2,7 @@
 
 Here is the link to [Pearcey's Picnics](https://bolliebrain.github.io/pearceys-picnics/)
 
-Pearcey's Picnics is a site that advertises picnic based gatherings in London. Pearcey's Picnics sells tickets to attend the event and customers can either bring their own picnic or purchase a pre-ordered picnic to be collected on the day. The site is targeted towards families, groups of people of all ages and backgrounds who wants to experience an alternative festival event in London.
+Pearcey's Picnics is a site that advertises picnic based gatherings in London. Pearcey's Picnics sells tickets to attend the event and customers can either bring their own picnic or purchase a pre-ordered picnic to be collected on the day. The site is targeted towards families, groups of people of all ages and backgrounds who wants to experience an alternative event in London.
 
 ![Mockup](documentation/rm-images/01-mockup.png)
 
