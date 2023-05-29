@@ -50,6 +50,17 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 
 ![LocationSpots](documentation/rm-images/06-locationspots.png)
 
+### 6. Footer 
+
+-
+
+![Footer](documentation/rm-images/07-footer.png)
+
+### 7. Sign-up
+
+-
+
+![Signup](documentation/rm-images/08-signup.png)
 
 ## Design
 - 
@@ -69,7 +80,43 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - [CloudConvert](https://cloudconvert.com/) was used to edit the format for images and convert for easy loading for the website.
 
 ## Testing
-- 
+
+### Validator Testing
+
+-[HTML Validator](https://validator.w3.org)
+
+- results for index.html
+![HTML results index](documentation/validation/html-validation-index.png)
+- results for locations.html
+![HTML results locations](documentation/validation/html-validation-locations.png)
+- results for signup.html
+![HTML results signup](documentation/validation/html-validation-signup.png)
+
+Full validation results are available on github here :
+
+- reference pdf docs 1 - home. COMPLETE
+- reference pdf docs 2 - location. COMPLETE
+- reference pdf docs 3 - sign-up. COMPLETE
+
+-[CSS Validator](https://jigsaw.w3.org/css-validator)
+
+- result for styles.css
+![CSS results 1](documentation/validation/css-validation-results-stylesheet1.png)
+![CSS results 2](documentation/validation/css-validation-results-stylesheet2.png)
+
+- The warnings are due to COMPLETE
+
+Full Validation results are available on github here :
+
+- reference pdf doc 1 - css COMPLETE
+
+- Accessability
+
+I can confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools
+
+PROVIDE ALL THREE
+
+
 ## Deployment
 ### How this site was deployed
 
