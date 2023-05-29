@@ -121,12 +121,25 @@ Full Validation results are available on github here :
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/css-validator-stylesheet.pdf" target="blank"> CSS Results - style.css</a>
 
-- Accessability
+- [Accessibility]
 
 I can confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools
 
 PROVIDE ALL THREE?
 
+### Browser Compatibility
+
+- Testing has been carried out on the following browsers :
+- Chrome Version 113.0.5672.126 (Official Build) (arm64)
+- Safari Version 16.4 (18615.1.26.110.1)
+- Firefox Version 113.0.2 (64-bit)
+- Microsoft Edge 113.0.1774.50 (Official build) (64-bit)
+
+TEST THESE
+
+### Known bugs
+
+- Hero image appearing in Microsoft Edge - reducing the pixel size of the image may have fixed this
 
 ## Deployment
 ### How this site was deployed
