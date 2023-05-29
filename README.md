@@ -139,8 +139,10 @@ TEST THESE
 
 ### Test Cases and Results
 
-Test each feature functionality
-Do we mention hero image zoom here?
+Test each feature functionality (table?)
+
+Form submission test - ref image
+form dump test - ref image
 
 ### Known bugs
 
