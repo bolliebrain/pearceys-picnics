@@ -79,7 +79,6 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - [HTML 5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-
 ### Frameworks, Libraries & Programes Used
 - [Google Fonts:](https://fonts.google.com/) was used to import the 'Anybody' and 'Cursive' fonts into the style.css file which are used on all pages of the project.
 - [Font Awesome:](https://fontawesome.com/) was used to add icones for the look and feel as well as UX purposes.
