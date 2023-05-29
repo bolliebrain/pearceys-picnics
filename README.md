@@ -52,7 +52,7 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 
 
 ## Design
-
+- 
 ## Technologies Used
 
 ### Languages Used
@@ -73,5 +73,29 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 ## Deployment
 ### How this site was deployed
 
-- In the Github repository, navigate to the Settings tab, then choose Pages from the left hand menu
+- 
+
+The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github.io/pearceys-picnics/index.html)
+
+### How to clone the repository
+- Go to the https://github.com/bolliebrain/pearceys-picnics repository on Github
+- Click the 'Code' button to the right of the screen. click HTTPs and copy the link there
+- Open a GitBash terminal and navigate to the directory where you want to locate the clone
+- On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
+
+## Credits
+
+### Code
+- Hero Image - Love running
+- locations - loosely inspired from love running
+
+
+### Media
+- google fonts
+- font awesome
+
+All images were downloaded from [Pikwizard](https://pikwizard.com)
+background blanket
+family picnic
+top view green
 
