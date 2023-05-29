@@ -430,6 +430,18 @@ form > h2 {
     }
 }
 
+/* form submission*/
+
+#thankyou {
+    #form-container {
+        background-color: rgba(250,0,5,0.6);
+        padding: 2rem;
+        width: 25rem;
+        margin: auto;
+        position: relative;
+    }
+}
+
 /* for very small screens sizes from 475px wide and down */
 @media screen and (max-width:475px) {
 
@@ -501,10 +513,4 @@ form > h2 {
         margin: 1rem;
         padding: 1rem;
     }
-}
-
-/* form submission*/
-
-#thankyou {
-    height: 20rem;
 }
