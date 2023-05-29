@@ -16,6 +16,9 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - Credit
 
 ## **User Experience (UX)**
+- 
+- 
+- 
 
 ## **Features**
 
@@ -138,11 +141,14 @@ The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github
 
 
 ### Media
-- google fonts
-- font awesome
+- The icons in the homepage ideals section and footer were taken from [Font Awesome](https://fontawesome.com)
+- The fonts were imported from  [Google Fonts](https://fonts.google.com)
 
-All images were downloaded from [Pikwizard](https://pikwizard.com)
-background blanket
-family picnic
-top view green
+All images were downloaded from [Pikwizard](https://pikwizard.com) and [Rawpixel](https://www.rawpixel.com):
+
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/README.md"> Main hero image photo
+
+- <a href="https://www.rawpixel.com/image/5913129/image-texture-christmas-public-domain"> Ideals, Locations page and Sign up page background image photo
+
+- <a href="https://pikwizard.com/photo/top-view-of-green-grass-field/50a0fe5a40b643cdce910f2d29e9fd31"> Park location background
 
