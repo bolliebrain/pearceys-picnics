@@ -20,7 +20,9 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - 
 - 
 
-## **Features**
+## Features
+
+### **Existing Features**
 
 ### 1. Navigation Bar
 - There is a full responsive navigation bar on all three pages, with links to the Home page, Location and Sign Up page and is identical in each page allowing for easy naviation.
@@ -65,6 +67,10 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 
 ![Signup](documentation/rm-images/08-signup.png)
 
+## Features which could be implemented in the future
+
+-
+
 ## Design
 - 
 ## Technologies Used
@@ -97,9 +103,11 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 
 Full validation results are available on github here :
 
-- reference pdf docs 1 - home. COMPLETE
-- reference pdf docs 2 - location. COMPLETE
-- reference pdf docs 3 - sign-up. COMPLETE
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-results-index.pdf" target="_blank"> HTML Results - Home Page</a>
+
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-results-locations.pdf" target="_blank"> HTML Results - Locations Page </a>
+
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-results-signup.pdf" target="_blank"> HTML Results - Sign up Page </a>
 
 -[CSS Validator](https://jigsaw.w3.org/css-validator)
 
@@ -111,13 +119,13 @@ Full validation results are available on github here :
 
 Full Validation results are available on github here :
 
-- reference pdf doc 1 - css COMPLETE
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/css-validator-stylesheet.pdf" target="blank"> CSS Results - style.css</a>
 
 - Accessability
 
 I can confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools
 
-PROVIDE ALL THREE
+PROVIDE ALL THREE?
 
 
 ## Deployment
