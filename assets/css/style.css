@@ -430,6 +430,13 @@ form > h2 {
         height: 50rem;
     }
 
+    #thankyou {
+        font-size: 80%;
+        padding: 1rem;
+        width: 20rem;
+        height: 25rem;
+    }
+
     #form-content {
         width: 15rem;
     }
@@ -490,6 +497,13 @@ form > h2 {
         width: 15rem;
         height: 45rem;
     }
+
+    #thankyou {
+            font-size: 80%;
+            padding: 1rem;
+            width: 15rem;
+            height: 35rem;
+        }
 
     #form-content { 
         width: 15rem;
