@@ -353,7 +353,17 @@ form > h2 {
     position: relative;
     width: 25rem;
 }
+/* form submission*/
 
+#thankyou {
+        background-color: rgba(250,0,5,0.6);
+        padding: 2rem;
+        width: 25rem;
+        margin: auto;
+        position: relative;
+        color: rgb(245, 245, 245);
+        text-align: center;
+    }
 /* media queries*/
 
 /* for large sizes from 1100px wide and down*/
@@ -430,15 +440,7 @@ form > h2 {
     }
 }
 
-/* form submission*/
 
-#thankyou {
-        background-color: rgba(250,0,5,0.6);
-        padding: 2rem;
-        width: 25rem;
-        margin: auto;
-        position: relative;
-    }
 
 /* for very small screens sizes from 475px wide and down */
 @media screen and (max-width:475px) {
