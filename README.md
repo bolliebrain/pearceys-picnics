@@ -124,7 +124,7 @@ Full Validation results are available on github here :
 
 I can confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools
 
-PROVIDE ALL THREE?
+PROVIDE ALL THREE? (include the form submitted)
 
 ### Browser Compatibility
 
@@ -150,13 +150,16 @@ form dump test - ref image
 ## Deployment
 ### How this site was deployed
 
-- 
+- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- Any chnages pushed to the master branch will take effect on the live project
 
 The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github.io/pearceys-picnics/index.html)
 
 ### How to clone the repository
 - Go to the https://github.com/bolliebrain/pearceys-picnics repository on Github
-- Click the 'Code' button to the right of the screen. click HTTPs and copy the link there
+- Click the 'Code' button to the right of the screen, click HTTPs and copy the link there
 - Open a GitBash terminal and navigate to the directory where you want to locate the clone
 - On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
