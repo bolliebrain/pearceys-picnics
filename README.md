@@ -7,13 +7,13 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 ![Mockup](documentation/rm-images/01-mockup.png)
 
 ## **Index - Table of Contents**
-- User Experience (UX) (complete)
+- User Experience (UX)
 - Features
 - Design
 - Technologies Used
 - Testing
 - Deployment
-- Credit
+- Credits
 
 ## **User Experience (UX)**
 First Time Visitor Goals:
@@ -28,7 +28,7 @@ Returning Visitor Goals:
 - C. As a Returning Visitor, I want to be able to contact the organisation, ask any questions - or give feedback.
 
 Frequent User Goals
-- As a Frequent User, I want to be able to sign-up easily for offers available and be kept up to date.
+- A. As a Frequent User, I want to be able to sign-up easily for offers available and be kept up to date.
 
 ## Features
 
@@ -100,12 +100,12 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 - Further Event information at each location
 Having information on other entertainment or products available at each location could increase interest in signing up and potential attendance.
 
-## Design
+## **Design**
 - Color
 - Typography
 - Wireframes
 
-## Technologies Used
+## **Technologies Used**
 
 ### Languages Used
 - [HTML 5](https://en.wikipedia.org/wiki/HTML5)
@@ -131,6 +131,8 @@ Having information on other entertainment or products available at each location
 ![HTML results locations](documentation/validation/html-validation-locations.png)
 - results for signup.html
 ![HTML results signup](documentation/validation/html-validation-signup.png)
+- results for formsubmitted.html
+![HTML results thankyou](documentation/validation/html-validation-thankyou.png)
 
 Full validation results are available on github here :
 
@@ -140,17 +142,19 @@ Full validation results are available on github here :
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-results-signup.pdf" target="_blank"> HTML Results - Sign up Page </a>
 
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-thankyou.pdf" target="_blank"> HTML Results - Thank You Page
+
 -[CSS Validator](https://jigsaw.w3.org/css-validator)
 
 - result for styles.css
 ![CSS results 1](documentation/validation/css-validation-results-stylesheet1.png)
 ![CSS results 2](documentation/validation/css-validation-results-stylesheet2.png)
 
-- The warnings are due to COMPLETE
+- Import CSS Warning: The warning is with reference to the google fonts link to which the validation test just refers directly to the css document only. This can essentially be disregarded.
 
 Full Validation results are available on github here :
 
-- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/css-validator-stylesheet.pdf" target="blank"> CSS Results - style.css</a>
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/css-validation-stylesheet.pdf" target="blank"> CSS Results - style.css</a>
 
 ### Accessibility
 
@@ -198,7 +202,7 @@ I can confirm that the colors and fonts chosen are easy to read and accessible b
 - Hero image appearing in Microsoft Edge:
 I spoke to my mentor about this bug and since then I have been unable to track what fixed it. It could have been due to reducing the pixel size of the image.
 
-## Deployment
+## **Deployment**
 ### How this site was deployed
 
 - In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
@@ -214,7 +218,7 @@ The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github
 - Open a GitBash terminal and navigate to the directory where you want to locate the clone
 - On the command line, type "git clone" then paste in the copied url and press the Enter key to begin the clone process
 
-## Credits
+## **Credits**
 
 ### Code
 - Hero Image - Love running
