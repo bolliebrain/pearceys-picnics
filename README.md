@@ -16,19 +16,19 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - Credit
 
 ## **User Experience (UX)**
--First Time Visitor Goals: 
-- As a First Time Visitor I want to understand the main purpose of the site and learn more about the organisation.
-- As a First Time Visitor I want to be able to navigate through the site easily.
-- As a First Time Visitor I want to be able to be able to know the event locations.
-- As a First Time Visitor I want to be able to able to find out what aspects are available.
+First Time Visitor Goals:
+
+- A. As a First Time Visitor I want to understand the main purpose of the site and learn more about the organisation.
+- B. As a First Time Visitor I want to be able to navigate through the site easily.
+- C. As a First Time Visitor I want to be able to able to find out what aspects are available to me.
 
 Returning Visitor Goals:
-- As a Returning Visitor, I want to be able to navigate through the site and access content quickly.
-- As a Returning Visitor, I want to be able to check event locations quickly and easily.
-- As a Returning Visitor, I want to be able to contact the organisation, ask any questions or give feedback.
+- A. As a Returning Visitor, I want to be able to navigate through the site and access content quickly.
+- B. As a Returning Visitor, I want to be able to check event locations quickly and easily.
+- C. As a Returning Visitor, I want to be able to contact the organisation, ask any questions - or give feedback.
 
 Frequent User Goals
-- As a Frequent User, I want to be able to sign-up easily for updated and offers available.
+- As a Frequent User, I want to be able to sign-up easily for offers available and be kept up to date.
 
 ## Features
 
@@ -80,20 +80,29 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 
 ### 7. Sign-up
 
-- The sign up section allows the user to stay in contact and receive information on the events, buying tickets, other products on offer and any other queries/ feedback they have. The user is asked to provide their full name and email address when signing up. By default, the option to find out more about the Pick Up Picnics is set to 'blank' - to prevent them getting unwanted information in their sign up. Signing up will result in a new tab showing a 'Thank You For Signing Up!' page.
+- The sign-up section allows the user to stay in contact and receive information on the events, buying tickets, other products on offer and any other queries/ feedback they have. The user is asked to provide their full name and email address when signing up. By default, the option to find out more about the Pick Up Picnics is set to 'blank' - to prevent them getting unwanted information in their sign up. 
 
 ![Signup](documentation/rm-images/08-signup.png)
+
+### 8. Thank You Page
+- This page displays a form submission validation which will result in a new tab showing a 'Thank You For Signing Up!' page. The header, navigation and footer remain consistent on this page which will allow the user to be directed back to the home page.
+
+## How these features support the User Stories
+
+- The User Stories in the User Experience (UX) part of this document are numbered and categorised into FT (First Time Visitor), RV (Returning Visitor) and FU (Frequent User). The existing features are listed above as 01-08. Below is the traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories:
+
+![UXreference](documentation/ux/uxreferenceimage.png)
 
 ## Features which could be implemented in the future
 
 - Further Event information at each location
 Having information on other entertainment or products available at each location could increase interest in signing up and potential attendance.
 
-- 
-
-
 ## Design
-- 
+- Color
+- Typography
+- Wireframes
+
 ## Technologies Used
 
 ### Languages Used
