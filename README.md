@@ -164,15 +164,15 @@ I can confirm that the colors and fonts chosen are easy to read and accessible b
 
 ![Homeaccessibility](documentation/test-cases/accessibility-homepage-desktop.png)
 
-#### 2. Locations
+#### 2. Locations page
 
 ![Locationsaccessibility](documentation/test-cases/accessibility-locations-desktop.png)
 
-#### 3.Sign-up
+#### 3.Sign-up page
 
 ![Signupaccessibility](documentation/test-cases/accessibility-signup-desktop.png)
 
-#### 4.Thank You
+#### 4.Thank You page
 ![Thankyouaccessibility](documentation/test-cases/accessibility-thankyou-desktop.png)
 
 
@@ -195,7 +195,8 @@ I can confirm that the colors and fonts chosen are easy to read and accessible b
 
 ### Known bugs
 
-- Hero image appearing in Microsoft Edge - reducing the pixel size of the image may have fixed this
+- Hero image appearing in Microsoft Edge:
+I spoke to my mentor about this bug and since then I have been unable to track what fixed it. It could have been due to reducing the pixel size of the image.
 
 ## Deployment
 ### How this site was deployed
