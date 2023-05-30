@@ -16,9 +16,20 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 - Credit
 
 ## **User Experience (UX)**
-- 
-- 
-- 
+- First Time Visitor Goals: 
+- As a First Time Visitor I want to understand the main purpose of the site and learn more about the organisation.
+- As a First Time Visitor I want to be able to navigate through the site easily.
+- As a First Time Visitor I want to be able to be able to know the event locations.
+- As a First Time Visitor I want to be able to able to find out what aspects are available.
+
+- Returning Visitor Goals:
+- As a Returning Visitor, I want to be able to navigate through the site and access content quickly.
+- As a Returning Visitor, I want to be able to check event locations quickly and easily.
+- As a Returning Visitor, I want to be able to contact the organisation, ask any questions or give feedback.
+
+- Frequent User Goals
+- As a Frequent User, I want to be able to sign-up easily for updated and offers available.
+
 
 ## Features
 
@@ -76,7 +87,11 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 
 ## Features which could be implemented in the future
 
+- Further Event information at each location
+Having information on other entertainment or products available at each location could increase interest in signing up and potential attendance.
+
 - 
+
 
 ## Design
 - 
