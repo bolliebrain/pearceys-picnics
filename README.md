@@ -38,32 +38,32 @@ Frequent User Goals
 - There is a full responsive navigation bar on all three pages, with links to the Home page, Location and Sign Up page and is identical in each page allowing for easy naviation.
 - This allows the use to navigate easily around the site from page to page across all devices without having to use the previous page option via the 'back button.
 
-![Navlogo](documentation/rm-images/02-navlogo.png)
+![Navlogo](documentation/feature-images/02-navlogo.png)
 
 ### 02. Landing Page image
 - The landing image includes a photograph with a cover text allowing the user to go straight to the locations page where more information is held.
 - This section draws the user to the experience that the business offers making it eye catching
 
-![Landingpage](documentation/rm-images/03-landingpage.png)
+![Landingpage](documentation/feature-images/03-landingpage.png)
 
 ### 03. Tagline
 - The tagline gives the user an insight into the individuality of the picnic's provided by Pearcey.
 - The story provides the user with a background of how the business started with a small family bringing communities together. This provides the user with a welcoming and friendly impression
 
-![Taglinestory](documentation/rm-images/04-taglinestory.png)
+![Taglinestory](documentation/feature-images/04-taglinestory.png)
 
 ### 04. Picnic Ideals
 
 - The ideals section allows the user to see what is on offer including the flexibility
 - The user will see the value of signing up to learn more about Pearcey's Picnics and finding out what other information is available
 
-![Picnicideals](documentation/rm-images/05-picnicideals.png)
+![Picnicideals](documentation/feature-images/05-picnicideals.png)
 
 ### 05. Location Spots
 
 - The locations spots allows the user to see what is available at each park and a quick link to sign up.
 
-![LocationSpots](documentation/rm-images/06-locationspots.png)
+![LocationSpots](documentation/feature-images/06-locationspots.png)
 
 ### 06. Footer 
 
@@ -76,18 +76,18 @@ The 'Contact Us' section allows the user to send a message or give feedback to t
 This area has links to social media sites associated with the organisation encouraging the use to keep connected (Facebook, Instrgram, Twitter and Youtube).
 The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts strategies. (Pearcey's Picnics is a ficticous company, which means the links currently just go to the social media main websites.)
 
-![Footer](documentation/rm-images/07-footer.png)
+![Footer](documentation/feature-images/07-footer.png)
 
 ### 07. Sign-up
 
 - The sign-up section allows the user to stay in contact and receive information on the events, buying tickets, other products on offer and any other queries/ feedback they have. The user is asked to provide their full name and email address when signing up. By default, the option to find out more about the Pick Up Picnics is set to 'blank' - to prevent them getting unwanted information in their sign up. 
 
-![Signup](documentation/rm-images/08-signup.png)
+![Signup](documentation/feature-images/08-signup.png)
 
 ### 08. Thank You Page
 - This page displays a form submission validation which will result in a new tab showing a 'Thank You For Signing Up!' page. The header, navigation and footer remain consistent on this page which will allow the user to be directed back to the home page.
 
-![Thank You](documentation/rm-images/09-thankyou.png)
+![Thank You](documentation/feature-images/09-thankyou.png)
 
 ## How these features support the User Stories
 
@@ -123,7 +123,8 @@ Having information on other entertainment or products available at each location
 
 ### Validator Testing
 
--[HTML Validator](https://validator.w3.org)
+
+[HTML Validator](https://validator.w3.org)
 
 - results for index.html
 ![HTML results index](documentation/validation/html-validation-index.png)
@@ -144,7 +145,7 @@ Full validation results are available on github here :
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-thankyou.pdf" target="_blank"> HTML Results - Thank You Page
 
--[CSS Validator](https://jigsaw.w3.org/css-validator)
+[CSS Validator](https://jigsaw.w3.org/css-validator)
 
 - result for styles.css
 ![CSS results 1](documentation/validation/css-validation-results-stylesheet1.png)
