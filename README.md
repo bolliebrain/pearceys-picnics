@@ -34,38 +34,38 @@ Frequent User Goals
 
 ### **Existing Features**
 
-### 1. Navigation Bar
+### 01. Navigation Bar
 - There is a full responsive navigation bar on all three pages, with links to the Home page, Location and Sign Up page and is identical in each page allowing for easy naviation.
 - This allows the use to navigate easily around the site from page to page across all devices without having to use the previous page option via the 'back button.
 
 ![Navlogo](documentation/rm-images/02-navlogo.png)
 
-### 2. Landing Page image
+### 02. Landing Page image
 - The landing image includes a photograph with a cover text allowing the user to go straight to the locations page where more information is held.
 - This section draws the user to the experience that the business offers making it eye catching
 
 ![Landingpage](documentation/rm-images/03-landingpage.png)
 
-### 3. Tagline
+### 03. Tagline
 - The tagline gives the user an insight into the individuality of the picnic's provided by Pearcey.
 - The story provides the user with a background of how the business started with a small family bringing communities together. This provides the user with a welcoming and friendly impression
 
 ![Taglinestory](documentation/rm-images/04-taglinestory.png)
 
-### 4. Picnic Ideals
+### 04. Picnic Ideals
 
 - The ideals section allows the user to see what is on offer including the flexibility
 - The user will see the value of signing up to learn more about Pearcey's Picnics and finding out what other information is available
 
 ![Picnicideals](documentation/rm-images/05-picnicideals.png)
 
-### 5. Location Spots
+### 05. Location Spots
 
 - The locations spots allows the user to see what is available at each park and a quick link to sign up.
 
 ![LocationSpots](documentation/rm-images/06-locationspots.png)
 
-### 6. Footer 
+### 06. Footer 
 
 - The footer is featured on all three pages and is identical on all three pages making it easy to use. It contains two sections:
 
@@ -78,13 +78,13 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 
 ![Footer](documentation/rm-images/07-footer.png)
 
-### 7. Sign-up
+### 07. Sign-up
 
 - The sign-up section allows the user to stay in contact and receive information on the events, buying tickets, other products on offer and any other queries/ feedback they have. The user is asked to provide their full name and email address when signing up. By default, the option to find out more about the Pick Up Picnics is set to 'blank' - to prevent them getting unwanted information in their sign up. 
 
 ![Signup](documentation/rm-images/08-signup.png)
 
-### 8. Thank You Page
+### 08. Thank You Page
 - This page displays a form submission validation which will result in a new tab showing a 'Thank You For Signing Up!' page. The header, navigation and footer remain consistent on this page which will allow the user to be directed back to the home page.
 
 ## How these features support the User Stories
@@ -164,14 +164,14 @@ PROVIDE ALL THREE? (include the form submitted)
 - Firefox Version 113.0.2 (64-bit)
 - Microsoft Edge 113.0.1774.50 (Official build) (64-bit)
 
-TEST THESE
-
 ### Test Cases and Results
 
-Test each feature functionality (table?)
+- The below table details the test cases that were used, the results and a cross reference to the Feature ID that each test case exercised (click to open image):
 
-Form submission test - ref image
-form dump test - ref image
+![Test Results](documentation/test-cases/testcases-resultstable.png)
+
+- Code Institute form dump test:
+![Form Dump Results](documentation/test-cases/formdump-test.png)
 
 ### Known bugs
 

@@ -87,8 +87,6 @@ nav {
     animation-fill-mode: backwards;
 }
 
-/* edit this cover-text */
-
 #cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container, #cover-text-link { 
     color: rgb(245, 245, 245);
     text-decoration: none;
