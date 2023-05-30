@@ -87,6 +87,17 @@ nav {
     animation-fill-mode: backwards;
 }
 
+/* Zoom animation for the hero image */
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1.2);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
 #cover-text, cover-text h2, .ideals, .location-content, .location-spots, #form-container, #cover-text-link { 
     color: rgb(245, 245, 245);
     text-decoration: none;
@@ -116,17 +127,6 @@ nav {
     margin-top: 1rem;
 }
 
-/* Zoom animation for the hero image */
-
-@keyframes hero-zoom {
-    from{
-        transform: scale(1.2);
-    }
-    to{
-        transform: scale(1);
-    }
-}
-
 /* group-ideals */
 
 .section-ideals {
@@ -135,7 +135,7 @@ nav {
     position: relative;
 }
 
-#welcome {
+#tagline {
     text-align: center;
     font-size: 250%;
     margin: 1rem 0;
@@ -191,6 +191,7 @@ nav {
     text-decoration: none;
     color: inherit;
 }
+
 /* footer */
 
 footer {
@@ -245,6 +246,7 @@ ul {
     overflow: hidden;
     position: relative;
 }
+
 .location-content {
     display: block;
     background-color: rgba(250,0,5,0.6);
@@ -286,6 +288,7 @@ ul {
 .park-name h2{
     padding-top: 1rem;
 }
+
 .park-name p {
     background-color: rgba(250,0,5,0.6);
     margin-top: 1rem;
@@ -351,6 +354,7 @@ form > h2 {
     position: relative;
     width: 25rem;
 }
+
 /* form submission*/
 
 #thankyou {
@@ -362,9 +366,10 @@ form > h2 {
         color: rgb(245, 245, 245);
         text-align: center;
     }
+
 /* media queries*/
 
-/* for large sizes from 1100px wide and down*/
+/* for large sizes from 1100px wide and down */
 @media screen and (max-width:1100px) {
 
     #cover-text {
@@ -378,7 +383,7 @@ form > h2 {
     }
 }
 
-/* for small screens sizes from 800px wide and down*/
+/* for small screens sizes from 800px wide and down */
 @media screen and (max-width:800px) {
 
     #cover-text {
@@ -493,13 +498,6 @@ form > h2 {
         width: 15rem;
         height: 45rem;
     }
-
-    #thankyou {
-            font-size: 80%;
-            padding: 1rem;
-            width: 15rem;
-            height: 35rem;
-        }
 
     #form-content { 
         width: 15rem;
