@@ -434,7 +434,7 @@ form > h2 {
         font-size: 80%;
         padding: 1rem;
         width: 20rem;
-        height: 25rem;
+        height: 15rem;
     }
 
     #form-content {
@@ -524,5 +524,12 @@ form > h2 {
     #signup-button {
         margin: 1rem;
         padding: 1rem;
+    }
+
+    #thankyou {
+        font-size: 80%;
+        padding: 1rem;
+        width: 20rem;
+        height: 15rem;
     }
 }
