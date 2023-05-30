@@ -87,6 +87,8 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 ### 08. Thank You Page
 - This page displays a form submission validation which will result in a new tab showing a 'Thank You For Signing Up!' page. The header, navigation and footer remain consistent on this page which will allow the user to be directed back to the home page.
 
+![Thank You](documentation/rm-images/09-thankyou.png)
+
 ## How these features support the User Stories
 
 - The User Stories in the User Experience (UX) part of this document are numbered and categorised into FT (First Time Visitor), RV (Returning Visitor) and FU (Frequent User). The existing features are listed above as 01-08. Below is the traceability matrix cross-referencing the user stories with the features, illustrating which features support which stories:
