@@ -51,25 +51,32 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 
 ### 5. Location Spots
 
--
+- The locations spots allows the user to see what is available at each park and a quick link to sign up.
 
 ![LocationSpots](documentation/rm-images/06-locationspots.png)
 
 ### 6. Footer 
 
--
+- The footer is featured on all three pages and is identical on all three pages making it easy to use. It contains two sections:
+
+- Contact us:
+The 'Contact Us' section allows the user to send a message or give feedback to the company. This allows an extra option to contact the company without signing up. (As this is a ficticous company, the email address doesnt have a hyperlink)
+
+- Follow us: 
+This area has links to social media sites associated with the organisation encouraging the use to keep connected (Facebook, Instrgram, Twitter and Youtube).
+The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts strategies. (Pearcey's Picnics is a ficticous company, which means the links currently just go to the social media main websites.)
 
 ![Footer](documentation/rm-images/07-footer.png)
 
 ### 7. Sign-up
 
--
+- The sign up section allows the user to stay in contact and receive information on the events, buying tickets, other products on offer and any other queries/ feedback they have. The user is asked to provide their full name and email address when signing up. By default, the option to find out more about the Pick Up Picnics is set to 'blank' - to prevent them getting unwanted information in their sign up. Signing up will result in a new tab showing a 'Thank You For Signing Up!' page.
 
 ![Signup](documentation/rm-images/08-signup.png)
 
 ## Features which could be implemented in the future
 
--
+- 
 
 ## Design
 - 
