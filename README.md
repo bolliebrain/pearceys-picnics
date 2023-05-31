@@ -4,7 +4,7 @@ Here is the link to [Pearcey's Picnics](https://bolliebrain.github.io/pearceys-p
 
 Pearcey's Picnics is a site that advertises picnic based gatherings in London. Pearcey's Picnics sells tickets to attend the event and customers can either bring their own picnic or purchase a pre-ordered picnic to be collected on the day. The site is targeted towards families, groups of people of all ages and backgrounds who wants to experience an alternative event in London.
 
-![Mockup](documentation/rm-images/01-mockup.png)
+![Mockup](documentation/feature-images/01-mockup.png)
 
 ## **Index - Table of Contents**
 - User Experience (UX)
@@ -101,9 +101,36 @@ The links will open in a new tab to allow easy navigation for the user. The orga
 Having information on other entertainment or products available at each location could increase interest in signing up and potential attendance.
 
 ## **Design**
-- Color
-- Typography
-- Wireframes
+
+### Imagery
+
+- The hero and large background images have been chosen because they are eye-catching and exciting. The picnic blanket background combined with the images to show the outdoors and family together portrays the sites purpose well whilst making it appealing for the user.
+
+### Colour Scheme
+
+- The red and white combination was chosen to resemble the picnic blanket colours. 
+
+### Typography
+
+- Google Fonts were used to import Anybody and Cursive fonts into styles.css. These were chosen as they work well together, easy to read and compliments the playfulness of the site.
+
+### Wireframes
+
+- Home Page Wireframes
+
+![Wireframehome](documentation/design/wireframe-index.png)
+
+- Locations Page Wireframes
+
+![Wireframehome](documentation/design/wireframe-locations.png)
+
+- Sign-up Page Wireframes
+
+![Wireframesign-up](documentation/design/wireframe-signup.png)
+
+- Thank You Page Wireframes
+
+![Wireframesthankyou](documentation/design/wireframe-formsubmitted.png)
 
 ## **Technologies Used**
 
