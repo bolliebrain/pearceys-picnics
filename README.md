@@ -144,12 +144,12 @@ Having information on other entertainment or products available at each location
 - [Git:](https://www.git-scm.com/) was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 - [GitHub:](https://github.com/) is used as the repository for the projects code after being pushed to Git.
 - [Apple Photos](https://www.apple.com/uk/ios/photos/) was used for resizing images and editing photos for the website.
-- [CloudConvert](https://cloudconvert.com/) was used to edit the format for images and convert for easy loading for the website.
+- [CloudConvert:](https://cloudconvert.com/) was used to edit the format for images and convert for easy loading for the website.
+- [Balsamiq:](https://balzamiq.com/) was used to create the wireframes during the design process.
 
 ## Testing
 
 ### Validator Testing
-
 
 [HTML Validator](https://validator.w3.org)
 
@@ -249,15 +249,16 @@ The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github
 ## **Credits**
 
 ### Code
-- Hero Image - Love running
-- locations - loosely inspired from love running
+- Hero Image Zoom feature: the zoom and coding was inspired by the Love Running content.
+- Locations spots: this was loosely inspired by the Love Running content.
+- Ideals and Locations flex box: the coding was based on guidance learnings from course mentor Elaine Broche.
 
 
 ### Media
-- The icons in the homepage ideals section and footer were taken from [Font Awesome](https://fontawesome.com)
+- The icons in the ideals, and footer section were taken from [Font Awesome](https://fontawesome.com)
 - The fonts were imported from  [Google Fonts](https://fonts.google.com)
 
-All images were downloaded from [Pikwizard](https://pikwizard.com) and [Rawpixel](https://www.rawpixel.com):
+All images were downloaded from [Pikwizard](https://pikwizard.com) and [Rawpixel](https://www.rawpixel.com) :
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/README.md"> Main hero image photo
 
@@ -265,3 +266,5 @@ All images were downloaded from [Pikwizard](https://pikwizard.com) and [Rawpixel
 
 - <a href="https://pikwizard.com/photo/top-view-of-green-grass-field/50a0fe5a40b643cdce910f2d29e9fd31"> Park location background
 
+### Acknowledgements
+- Thank you to my mentor Elaine Broche for the advice on planning for this project, taking the time to explain topics in detail and provide clarity.
