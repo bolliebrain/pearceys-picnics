@@ -7,13 +7,13 @@ Pearcey's Picnics is a site that advertises picnic based gatherings in London. P
 ![Mockup](documentation/feature-images/01-mockup.png)
 
 ## **Index - Table of Contents**
-- User Experience (UX)
-- Features
-- Design
-- Technologies Used
-- Testing
-- Deployment
-- Credits
+- [User Experience (UX)](#user-experience-ux)
+- [Features](#features)
+- [Design](#design)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 ## **User Experience (UX)**
 First Time Visitor Goals:
