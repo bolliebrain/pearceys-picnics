@@ -251,7 +251,7 @@ The live link can be found here - [Pearcey's Picnics](https://bolliebrain.github
 ### Code
 - Hero Image Zoom feature: the zoom and coding was inspired by the Love Running content.
 - Locations spots: this was loosely inspired by the Love Running content.
-- Ideals and Locations flex box: the coding was based on guidance learnings from course mentor Elaine Broche.
+- Ideals and Locations flex box: the coding was based on guidance learnings from course mentor Elaine Broche. <a href= "https://github.com/elainebroche-dev/test/blob/master/assets/css/style.css"> See link to Flex example </a>
 
 
 ### Media
