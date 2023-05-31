@@ -160,7 +160,7 @@ Having information on other entertainment or products available at each location
 - results for signup.html
 ![HTML results signup](documentation/validation/html-validation-signup.png)
 - results for formsubmitted.html
-![HTML results thankyou](documentation/validation/html-validation-thankyou.png)
+![HTML results thankyou](documentation/validation/html-validation-formsubmitted.png)
 
 Full validation results are available on github here:
 
@@ -170,7 +170,7 @@ Full validation results are available on github here:
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-results-signup.pdf" target="_blank"> HTML Results - Sign up page </a>
 
-- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-thankyou.pdf" target="_blank"> HTML Results - Thank You page
+- <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/html-validation-formsubmitted.pdf" target="_blank"> HTML Results - Thank You page
 
 [CSS Validator](https://jigsaw.w3.org/css-validator)
 
@@ -227,7 +227,7 @@ I can confirm that the colors and fonts chosen are easy to read and accessible b
 ![Signupaccessibility](documentation/test-cases/accessibility-signup-desktop.png)
 
 #### 4.Thank You page
-![Thankyouaccessibility](documentation/test-cases/accessibility-thankyou-desktop.png)
+![Thankyouaccessibility](documentation/test-cases/accessibility-formsubmitted-desktop.png)
 
 
 ## **Deployment**
