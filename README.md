@@ -116,19 +116,19 @@ Having information on other entertainment or products available at each location
 
 ### Wireframes
 
-- Home Page Wireframes
+- Home page Wireframes
 
 ![Wireframehome](documentation/design/wireframe-index.png)
 
-- Locations Page Wireframes
+- Locations page Wireframes
 
 ![Wireframelocations](documentation/design/wireframe-locations.png)
 
-- Sign-up Page Wireframes
+- Sign-up page Wireframes
 
 ![Wireframesign-up](documentation/design/wireframe-signup.png)
 
-- Thank You Page Wireframes
+- Thank You page Wireframes
 
 ![Wireframesthankyou](documentation/design/wireframe-formsubmitted.png)
 
@@ -184,6 +184,28 @@ Full Validation results are available on github here :
 
 - <a href="https://github.com/bolliebrain/pearceys-picnics/blob/main/documentation/validation/css-validation-stylesheet.pdf" target="blank"> CSS Results - style.css</a>
 
+### Browser Compatibility
+
+- Testing has been carried out on the following browsers :
+- Chrome Version 113.0.5672.126 (Official Build) (arm64)
+- Safari Version 16.4 (18615.1.26.110.1)
+- Firefox Version 113.0.2 (64-bit)
+- Microsoft Edge 113.0.1774.50 (Official build) (64-bit)
+
+### Test Cases and Results
+
+- The below table details the test cases that were used, the results and a cross reference to the Feature ID that each test case exercised (click to open image):
+
+![Test Results](documentation/test-cases/testcases-resultstable.png)
+
+- Code Institute form dump test:
+![Form Dump Results](documentation/test-cases/formdump-test.png)
+
+### Known bugs
+
+- Hero image appearing in Microsoft Edge:
+I spoke to my mentor about this bug and since then I have been unable to track what fixed it. It could have been due to reducing the pixel size of the image.
+
 ### Accessibility
 
 I can confirm that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse in dev tools
@@ -207,28 +229,6 @@ I can confirm that the colors and fonts chosen are easy to read and accessible b
 #### 4.Thank You page
 ![Thankyouaccessibility](documentation/test-cases/accessibility-thankyou-desktop.png)
 
-
-### Browser Compatibility
-
-- Testing has been carried out on the following browsers :
-- Chrome Version 113.0.5672.126 (Official Build) (arm64)
-- Safari Version 16.4 (18615.1.26.110.1)
-- Firefox Version 113.0.2 (64-bit)
-- Microsoft Edge 113.0.1774.50 (Official build) (64-bit)
-
-### Test Cases and Results
-
-- The below table details the test cases that were used, the results and a cross reference to the Feature ID that each test case exercised (click to open image):
-
-![Test Results](documentation/test-cases/testcases-resultstable.png)
-
-- Code Institute form dump test:
-![Form Dump Results](documentation/test-cases/formdump-test.png)
-
-### Known bugs
-
-- Hero image appearing in Microsoft Edge:
-I spoke to my mentor about this bug and since then I have been unable to track what fixed it. It could have been due to reducing the pixel size of the image.
 
 ## **Deployment**
 ### How this site was deployed
